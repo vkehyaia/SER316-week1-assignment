@@ -54,9 +54,7 @@ public class GameEngine {
                 result = new GuessResult(false, "Too high!", attempts);
             }
             result.setRemainingAttempts(remaining);
-            return result;
             String hint = getHint(guess);
-            GuessResult result;
             if (guess < target) {
                 result = new GuessResult(false, "Too low!", attempts);
             } else {
