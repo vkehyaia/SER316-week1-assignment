@@ -5,6 +5,7 @@ public class Main {
         System.out.println("=== Welcome to the Number Guessing Game! ===");
 
         // Version 1.1 - Added quit functionality
+        System.out.println("Good luck!");
 
         System.out.println("Good luck!");
 
