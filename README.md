@@ -62,3 +62,8 @@ We would do this to either clean up messy commit messages or combine several sma
 Like rebase, we do not want to squash any shared branches. <br />
 **Cherry-pick:** We would use cherry-pick when we need to apply a specific commit to a branch without merging the entire branch.
 We would do this if there is a system-breaking bug in main that needs to be immediately fixed but we don't want to pull in unfinished features from the branch.
+
+
+
+
+
